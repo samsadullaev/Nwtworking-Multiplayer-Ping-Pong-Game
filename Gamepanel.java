@@ -47,6 +47,8 @@ public class GameBoardPanel extends JPanel implements ActionListener, KeyListene
 	private double paddleFourLength = 100;
 	private double paddleSpeed = 2;
 	private int playerOneScore;
+
+	private int lolll;
 	private int playerTwoScore;
 	private int playerThreeScore;
 	private int playerFourScore;
